@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1",
+    "name": "Buddy",
+    "age": "2 years",
+    "breed": "Golden Retriever",
+    "gender": "Male",
+    "description": "Buddy is a friendly and energetic Golden Retriever who loves to play fetch and go for long walks. He is great with kids and other pets.",
+    "image": "buddy.png"
+  },
+  {
+    "id": "2",
+    "name": "Lucy",
+    "age": "1 year",
+    "breed": "Domestic Shorthair",
+    "gender": "Female",
+    "description": "Lucy is a sweet and cuddly cat who enjoys napping in sunbeams and chasing laser pointers. She is a bit shy at first but warms up quickly.",
+    "image": "lucy.png"
+  },
+  {
+    "id": "3",
+    "name": "Max",
+    "age": "3 years",
+    "breed": "German Shepherd",
+    "gender": "Male",
+    "description": "Max is a loyal and intelligent German Shepherd, well-trained and protective. He enjoys outdoor activities and is looking for a home with a spacious yard.",
+    "image": "max.png"
+  },
+  {
+    "id": "4",
+    "name": "Daisy",
+    "age": "6 months",
+    "breed": "Beagle",
+    "gender": "Female",
+    "description": "Daisy is a playful and curious Beagle puppy. She loves exploring and is very food motivated, making her easy to train. She needs a family who can give her lots of attention.",
+    "image": "daisy.png"
+  },
+  {
+    "id": "5",
+    "name": "Whiskers",
+    "age": "4 years",
+    "breed": "Siamese",
+    "gender": "Male",
+    "description": "Whiskers is a calm and elegant Siamese cat. He enjoys quiet evenings and being petted. He is independent but also loves to cuddle on his own terms.",
+    "image": "whiskers.png"
+  }
+]
+
+
