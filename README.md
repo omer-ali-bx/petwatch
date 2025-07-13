@@ -4,8 +4,8 @@ A beautiful and modern React Native app for pet adoption, built with Expo and Re
 
 ## Screenshots
 
-![Screenshot 1](screenshots/1.png) ![Screenshot 2](screenshots/2.png) ![Screenshot 3](screenshots/3.png) ![Screenshot 4](screenshots/4.png)
-![Screenshot 5](screenshots/5.png) ![Screenshot 6](screenshots/6.png) ![Screenshot 7](screenshots/7.png)
+<img src="screenshots/1.png" width="200"> <img src="screenshots/2.png" width="200"> <img src="screenshots/3.png" width="200"> <img src="screenshots/4.png" width="200">
+<img src="screenshots/5.png" width="200"> <img src="screenshots/6.png" width="200"> <img src="screenshots/7.png" width="200">
 
 
 ## Features
